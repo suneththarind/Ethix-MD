@@ -1,5 +1,5 @@
 {
-  "name": "whatsapp-bot (Ethix-MD)",
+  "name": "whatsapp-bot (DEADPOOL-MD)",
   "description": " Whatsapp bot.",
   "keywords": [
     "whatsapp bot"
@@ -10,7 +10,7 @@
       "SESSION_ID": {
       "description": "your session id",
       "required": true,
-      "value": "Ethix-MD&PKg9L4MU"
+      "value": "Ethix-MD&rJ290z4x"
     },
     "MODE": {
       "description": "mode public or self",
@@ -25,32 +25,32 @@
     "AUTO_READ": {
       "description": "make it true if you want bot to read message",
       "required": false,
-      "value": ""
+      "value": "false"
     },
     "AUTO_TYPING": {
       "description": "make it true if you want bot to show typing",
       "required": false,
-      "value": ""
+      "value": "false"
     },
     "AUTO_RECORDING": {
       "description": "make it true if you want bot to show recording audio",
       "required": false,
-      "value": ""
+      "value": "false"
     },
     "ALWAYS_ONLINE": {
       "description": "make it true if you want bot to show always online",
       "required": false,
-      "value": ""
+      "value": "false"
     },
     "AUTO_BLOCK": {
       "description": "make it true if you want bot to auto block only 212 numbers",
       "required": false,
-      "value": ""
+      "value": "false"
     },
     "REJECT_CALL": {
       "description": "make it true if you want to reject call",
       "required": false,
-      "value": ""
+      "value": "false"
     }
     },
     "buildpacks": [
